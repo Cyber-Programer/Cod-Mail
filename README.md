@@ -19,5 +19,5 @@
     5. Automation: After providing the necessary details, the tool will automatically open a (web browser) and initiate the search process.
 
 
-![Demo](link)
+![Demo](/demo.png)
 
