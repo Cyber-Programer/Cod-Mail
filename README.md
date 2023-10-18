@@ -2,7 +2,7 @@
   <img src="https://github.com/Cyber-Programer/first_web/assets/125746506/80cd9a31-d552-4e45-b918-0832b5258188">
 </p>
 
-# CodeBlast
+# CodeBlast 😉
 
 *`CodeBlast`* is a software tool designed to search for `Gmail` accounts by their associated `phone numbers`. When an account is found, it can be saved to a `text file`. We affectionately refer to this tool as **`Cod Mail`**, highlighting its primary focus on `email-related` tasks.
 
