@@ -44,3 +44,14 @@
     * Two-step number
 
 - You can control the program's speed, password matching, and other settings according to your preferences.
+
+# System Requirements:
+
+This is a `Windows-based` softower so you need `Windows` as you oparating System.
+
+- Windows 7
+- Windows 8
+- Windows 10
+- Windows 11
+
+Best for Windows 10
