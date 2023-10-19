@@ -6,7 +6,7 @@
 
 *`CodeBlast`* is a software tool designed to search for `Gmail` accounts by their associated `phone numbers`. When an account is found, it can be saved to a `text file`. We affectionately refer to this tool as **`Cod Mail`**, highlighting its primary focus on `email-related` tasks.
 
-# How Does This Tool Work?
+# How Does This softower Work?
 
 *CodeBlast* is a `Windows-based` executable (`exe`) file. 
 
@@ -25,7 +25,7 @@
 
 ![Demo](/demo.png)
 
-# How dose this softower work?
+# How to use?
 
 - Set your desired country code by editing the config.json file. You can also configure other settings in this file.
 
