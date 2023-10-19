@@ -25,3 +25,22 @@
 
 ![Demo](/demo.png)
 
+# How dose this softower work?
+
+- Set your desired country code by editing the config.json file. You can also configure other settings in this file.
+
+- If you need to change your login credentials, run the program, and it will prompt you for your softower account username and password.
+
+
+- Run the program. It will check your MAC address for login validation. If successful, it will begin searching for Google accounts using the specified settings.
+
+- The program will generate phone numbers based on the specified country code number and other settings. It will attempt to sign in with these phone numbers and search for Google accounts.
+
+- When a Google account is found, the program will categorize it into one of the following types:
+
+    * Method number
+    * Bell number
+    * Security code number
+    * Two-step number
+
+- You can control the program's speed, password matching, and other settings according to your preferences.
